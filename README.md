@@ -11,7 +11,4 @@ It includes:
 - ER diagram  
 - Final conclusion
 
-📄 View the full project:  
-[Zerodha_Product_dissection_by_Sanjana.pdf](Zerodha_Product_dissection_by_Sanjana.pdf)
-
 📷 Screenshots included: Kite Dashboard UI  
